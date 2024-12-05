@@ -5,8 +5,7 @@ class Solution(object):
         :type t: str
         :rtype: bool
         """
-        if len(s)!=len(t):
-            return False
+        
     
         map_of_s=[]
         map_of_t=[]
