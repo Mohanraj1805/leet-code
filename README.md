@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Mohanraj1805/leet-code/tree/master/0018-4sum) |
 | [0074-search-a-2d-matrix](https://github.com/Mohanraj1805/leet-code/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Mohanraj1805/leet-code/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Mohanraj1805/leet-code/tree/master/0118-pascals-triangle) |
@@ -16,10 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Mohanraj1805/leet-code/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Mohanraj1805/leet-code/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Mohanraj1805/leet-code/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Mohanraj1805/leet-code/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Mohanraj1805/leet-code/tree/master/0169-majority-element) |
 ## Binary Search
