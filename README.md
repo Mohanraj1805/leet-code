@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Mohanraj1805/leet-code/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mohanraj1805/leet-code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/Mohanraj1805/leet-code/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/Mohanraj1805/leet-code/tree/master/0046-permutations) |
 | [0074-search-a-2d-matrix](https://github.com/Mohanraj1805/leet-code/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Mohanraj1805/leet-code/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Mohanraj1805/leet-code/tree/master/0118-pascals-triangle) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Mohanraj1805/leet-code/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/Mohanraj1805/leet-code/tree/master/0046-permutations) |
 | [0131-palindrome-partitioning](https://github.com/Mohanraj1805/leet-code/tree/master/0131-palindrome-partitioning) |
 ## String
 |  |
