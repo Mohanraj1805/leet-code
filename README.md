@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Mohanraj1805/leet-code/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/Mohanraj1805/leet-code/tree/master/0118-pascals-triangle) |
 ## Two Pointers
 |  |
@@ -41,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Mohanraj1805/leet-code/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Mohanraj1805/leet-code/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Mohanraj1805/leet-code/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
