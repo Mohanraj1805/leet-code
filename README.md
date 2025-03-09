@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Mohanraj1805/leet-code/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Mohanraj1805/leet-code/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Mohanraj1805/leet-code/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/Mohanraj1805/leet-code/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Mohanraj1805/leet-code/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
@@ -90,4 +91,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Mohanraj1805/leet-code/tree/master/0029-divide-two-integers) |
+| [0136-single-number](https://github.com/Mohanraj1805/leet-code/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
