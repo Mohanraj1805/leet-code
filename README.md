@@ -92,4 +92,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Mohanraj1805/leet-code/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/Mohanraj1805/leet-code/tree/master/0136-single-number) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Mohanraj1805/leet-code/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Mohanraj1805/leet-code/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Mohanraj1805/leet-code/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
