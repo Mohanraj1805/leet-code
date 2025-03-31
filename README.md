@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Mohanraj1805/leet-code/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mohanraj1805/leet-code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/Mohanraj1805/leet-code/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/Mohanraj1805/leet-code/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Mohanraj1805/leet-code/tree/master/0046-permutations) |
 | [0074-search-a-2d-matrix](https://github.com/Mohanraj1805/leet-code/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Mohanraj1805/leet-code/tree/master/0088-merge-sorted-array) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Mohanraj1805/leet-code/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Mohanraj1805/leet-code/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/Mohanraj1805/leet-code/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/Mohanraj1805/leet-code/tree/master/0131-palindrome-partitioning) |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Mohanraj1805/leet-code/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Mohanraj1805/leet-code/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mohanraj1805/leet-code/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Mohanraj1805/leet-code/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Mohanraj1805/leet-code/tree/master/0088-merge-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Mohanraj1805/leet-code/tree/master/0160-intersection-of-two-linked-lists) |
 ## Sorting
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mohanraj1805/leet-code/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Mohanraj1805/leet-code/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/Mohanraj1805/leet-code/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Mohanraj1805/leet-code/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Mohanraj1805/leet-code/tree/master/0496-next-greater-element-i) |
@@ -115,5 +119,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Mohanraj1805/leet-code/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Mohanraj1805/leet-code/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
