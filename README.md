@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Mohanraj1805/leet-code/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Mohanraj1805/leet-code/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Mohanraj1805/leet-code/tree/master/0169-majority-element) |
+| [0239-sliding-window-maximum](https://github.com/Mohanraj1805/leet-code/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/Mohanraj1805/leet-code/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Mohanraj1805/leet-code/tree/master/0735-asteroid-collision) |
 ## Dynamic Programming
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Mohanraj1805/leet-code/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Mohanraj1805/leet-code/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/Mohanraj1805/leet-code/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -134,4 +136,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Mohanraj1805/leet-code/tree/master/0402-remove-k-digits) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Mohanraj1805/leet-code/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Mohanraj1805/leet-code/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Mohanraj1805/leet-code/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
