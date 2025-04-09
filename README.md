@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Mohanraj1805/leet-code/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/Mohanraj1805/leet-code/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Mohanraj1805/leet-code/tree/master/0735-asteroid-collision) |
+| [0940-fruit-into-baskets](https://github.com/Mohanraj1805/leet-code/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/Mohanraj1805/leet-code/tree/master/1046-max-consecutive-ones-iii) |
 ## Dynamic Programming
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Mohanraj1805/leet-code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Mohanraj1805/leet-code/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/Mohanraj1805/leet-code/tree/master/0496-next-greater-element-i) |
+| [0940-fruit-into-baskets](https://github.com/Mohanraj1805/leet-code/tree/master/0940-fruit-into-baskets) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Mohanraj1805/leet-code/tree/master/0239-sliding-window-maximum) |
+| [0940-fruit-into-baskets](https://github.com/Mohanraj1805/leet-code/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/Mohanraj1805/leet-code/tree/master/1046-max-consecutive-ones-iii) |
 ## Heap (Priority Queue)
 |  |
