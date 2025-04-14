@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Mohanraj1805/leet-code/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Mohanraj1805/leet-code/tree/master/0735-asteroid-collision) |
 | [0940-fruit-into-baskets](https://github.com/Mohanraj1805/leet-code/tree/master/0940-fruit-into-baskets) |
+| [0966-binary-subarrays-with-sum](https://github.com/Mohanraj1805/leet-code/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Mohanraj1805/leet-code/tree/master/1046-max-consecutive-ones-iii) |
 ## Dynamic Programming
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Mohanraj1805/leet-code/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/Mohanraj1805/leet-code/tree/master/0496-next-greater-element-i) |
 | [0940-fruit-into-baskets](https://github.com/Mohanraj1805/leet-code/tree/master/0940-fruit-into-baskets) |
+| [0966-binary-subarrays-with-sum](https://github.com/Mohanraj1805/leet-code/tree/master/0966-binary-subarrays-with-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Mohanraj1805/leet-code/tree/master/0239-sliding-window-maximum) |
 | [0940-fruit-into-baskets](https://github.com/Mohanraj1805/leet-code/tree/master/0940-fruit-into-baskets) |
+| [0966-binary-subarrays-with-sum](https://github.com/Mohanraj1805/leet-code/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Mohanraj1805/leet-code/tree/master/1046-max-consecutive-ones-iii) |
 ## Heap (Priority Queue)
 |  |
@@ -157,5 +160,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0966-binary-subarrays-with-sum](https://github.com/Mohanraj1805/leet-code/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Mohanraj1805/leet-code/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
