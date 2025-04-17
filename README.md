@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Mohanraj1805/leet-code/tree/master/0496-next-greater-element-i) |
 | [0940-fruit-into-baskets](https://github.com/Mohanraj1805/leet-code/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Mohanraj1805/leet-code/tree/master/0966-binary-subarrays-with-sum) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Mohanraj1805/leet-code/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Mohanraj1805/leet-code/tree/master/0131-palindrome-partitioning) |
 | [0402-remove-k-digits](https://github.com/Mohanraj1805/leet-code/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mohanraj1805/leet-code/tree/master/0424-longest-repeating-character-replacement) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Mohanraj1805/leet-code/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Mohanraj1805/leet-code/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Mohanraj1805/leet-code/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Mohanraj1805/leet-code/tree/master/1046-max-consecutive-ones-iii) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Mohanraj1805/leet-code/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Mohanraj1805/leet-code/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Heap (Priority Queue)
 |  |
