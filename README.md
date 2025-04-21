@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Mohanraj1805/leet-code/tree/master/0735-asteroid-collision) |
 | [0940-fruit-into-baskets](https://github.com/Mohanraj1805/leet-code/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Mohanraj1805/leet-code/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/Mohanraj1805/leet-code/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Mohanraj1805/leet-code/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Mohanraj1805/leet-code/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Dynamic Programming
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Mohanraj1805/leet-code/tree/master/0496-next-greater-element-i) |
 | [0940-fruit-into-baskets](https://github.com/Mohanraj1805/leet-code/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Mohanraj1805/leet-code/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/Mohanraj1805/leet-code/tree/master/1034-subarrays-with-k-different-integers) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Mohanraj1805/leet-code/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Divide and Conquer
 |  |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Mohanraj1805/leet-code/tree/master/0169-majority-element) |
+| [1034-subarrays-with-k-different-integers](https://github.com/Mohanraj1805/leet-code/tree/master/1034-subarrays-with-k-different-integers) |
 ## Math
 |  |
 | ------- |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Mohanraj1805/leet-code/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/Mohanraj1805/leet-code/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Mohanraj1805/leet-code/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/Mohanraj1805/leet-code/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Mohanraj1805/leet-code/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Mohanraj1805/leet-code/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Mohanraj1805/leet-code/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
