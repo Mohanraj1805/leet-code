@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Mohanraj1805/leet-code/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Mohanraj1805/leet-code/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Mohanraj1805/leet-code/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Mohanraj1805/leet-code/tree/master/0160-intersection-of-two-linked-lists) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mohanraj1805/leet-code/tree/master/0020-valid-parentheses) |
+| [0076-minimum-window-substring](https://github.com/Mohanraj1805/leet-code/tree/master/0076-minimum-window-substring) |
 | [0131-palindrome-partitioning](https://github.com/Mohanraj1805/leet-code/tree/master/0131-palindrome-partitioning) |
 | [0402-remove-k-digits](https://github.com/Mohanraj1805/leet-code/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mohanraj1805/leet-code/tree/master/0424-longest-repeating-character-replacement) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Mohanraj1805/leet-code/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/Mohanraj1805/leet-code/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mohanraj1805/leet-code/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/Mohanraj1805/leet-code/tree/master/0940-fruit-into-baskets) |
