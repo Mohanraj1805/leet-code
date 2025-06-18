@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Mohanraj1805/leet-code/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Mohanraj1805/leet-code/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/Mohanraj1805/leet-code/tree/master/0062-unique-paths) |
 ## Combinatorics
