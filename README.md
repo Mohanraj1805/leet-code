@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Mohanraj1805/leet-code/tree/master/0496-next-greater-element-i) |
 | [0724-find-pivot-index](https://github.com/Mohanraj1805/leet-code/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Mohanraj1805/leet-code/tree/master/0735-asteroid-collision) |
+| [0792-binary-search](https://github.com/Mohanraj1805/leet-code/tree/master/0792-binary-search) |
 | [0940-fruit-into-baskets](https://github.com/Mohanraj1805/leet-code/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Mohanraj1805/leet-code/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Mohanraj1805/leet-code/tree/master/1034-subarrays-with-k-different-integers) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Mohanraj1805/leet-code/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Mohanraj1805/leet-code/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Mohanraj1805/leet-code/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0792-binary-search](https://github.com/Mohanraj1805/leet-code/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/Mohanraj1805/leet-code/tree/master/1046-max-consecutive-ones-iii) |
 ## Matrix
 |  |
