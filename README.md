@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Mohanraj1805/leet-code/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Mohanraj1805/leet-code/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Mohanraj1805/leet-code/tree/master/0046-permutations) |
+| [0073-set-matrix-zeroes](https://github.com/Mohanraj1805/leet-code/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Mohanraj1805/leet-code/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Mohanraj1805/leet-code/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Mohanraj1805/leet-code/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -71,10 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Mohanraj1805/leet-code/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Mohanraj1805/leet-code/tree/master/0074-search-a-2d-matrix) |
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Mohanraj1805/leet-code/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Mohanraj1805/leet-code/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Mohanraj1805/leet-code/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Mohanraj1805/leet-code/tree/master/0138-copy-list-with-random-pointer) |
