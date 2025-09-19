@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Mohanraj1805/leet-code/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Mohanraj1805/leet-code/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Mohanraj1805/leet-code/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/Mohanraj1805/leet-code/tree/master/0118-pascals-triangle) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Mohanraj1805/leet-code/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Mohanraj1805/leet-code/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Mohanraj1805/leet-code/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mohanraj1805/leet-code/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Mohanraj1805/leet-code/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Mohanraj1805/leet-code/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Mohanraj1805/leet-code/tree/master/0076-minimum-window-substring) |
 | [0131-palindrome-partitioning](https://github.com/Mohanraj1805/leet-code/tree/master/0131-palindrome-partitioning) |
