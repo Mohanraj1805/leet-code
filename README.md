@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Mohanraj1805/leet-code/tree/master/0005-longest-palindromic-substring) |
+| [0008-string-to-integer-atoi](https://github.com/Mohanraj1805/leet-code/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/Mohanraj1805/leet-code/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Mohanraj1805/leet-code/tree/master/0076-minimum-window-substring) |
 | [0131-palindrome-partitioning](https://github.com/Mohanraj1805/leet-code/tree/master/0131-palindrome-partitioning) |
