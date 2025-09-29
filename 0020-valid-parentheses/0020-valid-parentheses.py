@@ -1,12 +1,15 @@
-class Solution(object):
-    def isValid(self, s):
-        """
-        :type s: str
-        :rtype: bool
-        """
-        while len(s)>0:
-            l=len(s)
-            s=s.replace("()",'').replace('{}','').replace('[]','')
-            if l==len(s): 
-                return False 
-        return True
+class Solution:
+    def isValid(self, s: str) -> bool:
+        stack = []
+        
+        for char in s:
+            if char == '(':
+                stack.append(')')
+            elif char == '{':
+                stack.append('}')
+            elif char == '[':
+                stack.append(']')
+            elif not stack or stack.pop() != char:
+                return False
+
+        return not stack
